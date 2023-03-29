@@ -19,8 +19,8 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/siwind/openwrt.git
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/MoShengQ7/lede
+  REPO_BRANCH: E8820V2
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: zte-e8820v2-master.config
   DIY_P1_SH: diy-part1.sh 
